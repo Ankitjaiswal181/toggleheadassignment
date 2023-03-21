@@ -1,0 +1,42 @@
+.section-two__upper{
+    display: flex;
+}
+.schedule{
+    padding-right: 39px;
+    border-right: 1px solid #D1D1D1;
+}
+.schedule h1{
+    font-size: 28px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #12406F;
+}
+.schedule p{
+    font-size: 14px;
+    color: black;
+    font-weight: lighter;
+}
+.schedule__right{
+    display: flex;
+    align-items: center;
+    padding: 0px 40px;
+    
+}
+.details{
+    padding-left: 20px;
+    padding-right: 85px;
+}
+.details h2{
+    color: #12406F;
+    font-size: 16px;
+    font-weight: bold;
+}
+.details p{
+    color: #271B1B;
+    font-size: 16px;
+    font-weight: normal;
+}
+.section-two__lower{
+    display: flex;
+    
+}

@@ -1,0 +1,25 @@
+.content{
+    color: #12406F;
+    /* font-size: 28px; */
+    padding: 85px 0px 91px 0px;
+}
+.content h1{
+    font-size: 28px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.content p{
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-weight: light;
+}
+.content button{
+  font-size: 16px;
+  color: white;
+  background: #12406F;
+  padding: 12px 27px;
+  border-radius: 12px;
+  font-weight: 600;
+  outline: none;
+  border: none;
+}

@@ -1,0 +1,61 @@
+
+.faq h2{
+    text-align: center;
+    font-size: 28px;
+    color: #12406F;
+    font-weight: bold;
+    margin-bottom: 23px;
+}
+.qa{
+    margin-bottom: 40px;
+}
+.qa>p{
+    font-size: 14px;
+    color: #525252;
+    font-weight: normal;
+    padding: 28px 0px 34px 0px;
+    border-bottom: 0.3px solid #707070;
+}
+.qa p>img{
+    float: right;
+}
+.qa>p:last-child{
+    border-bottom: none;
+}
+.qa .highlight{
+    color: #12406F;
+    border-bottom: 1px solid #12406F;
+}
+.subcribe-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.subs h1{
+    font-size: 28px;
+    font-weight: bold;
+    color: #12406F;
+    margin-bottom: 19px;
+}
+.subs p{
+    font-size: 14px;
+    color: #525252;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+.subs input{
+    border: 1px solid #707070;
+    border-radius: 10px;
+    padding: 15px 294px 17px 29px;
+    margin-right: 21px;
+}
+.subs button{
+    font-size: 13px;
+  color: white;
+  background: #12406F;
+  padding: 12px 27px;
+  border-radius: 16px;
+  font-weight: bold;
+}
+
+
